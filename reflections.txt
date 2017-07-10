@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1.I learned superscript. :) Didn’t use that before in my learning. Been spending much of my time in JavaScript tutorials lately so glad to brush off a bit of the rust in my HTML knowledge. 
+2. Mostly just refresher, but headings are pretty easy to pick out, much of this section will be refresher, CSS will start learning a bit more again and then again in JS sections.
+3. Nothing much as of yet, it’s great to learn to make the mockup as perfect as possible as that is what we will be doing in our jobs most likely. 
+4. The problem solving strategies has helped already because I had to look up ways to create items in the mock up I wasn’t aware of previously. 
